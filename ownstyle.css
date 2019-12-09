@@ -1,0 +1,23 @@
+h1 {
+    font-family: "Playfair Display";
+    color: white;
+}
+
+p {
+    font-family: "Open Sans";
+    color: white;
+}
+
+body,html {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("oil.jfif");
+    background-size: cover;
+    /*border: #b9bbbe solid 5px;*/
+    width:100%;
+    height: 100%;
+}
+
+.landMsg {
+    /*text-align: center;*/
+    /*border: white solid 5px;*/
+    /*margin-top: 15em;*/
+}
